@@ -131,7 +131,6 @@ POST /predict
 
 ## 📷 Screenshots
 
-Add screenshots of:
 <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/e26d65c0-73b1-4338-96c7-758487e87738" />
 
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/5179a10f-4092-43d3-a79b-95704bf793a1" />
